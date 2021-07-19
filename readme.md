@@ -1,4 +1,4 @@
-# Common Sense APP
+# How Well You Know me APP
 * A console based quiz about me !!
 
 > # A console based quiz 
